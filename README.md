@@ -6,4 +6,4 @@ Based on the original Limechat-Whisper theme, this adds colored events and other
 Installing
 =================================
 
-Just drop this directory into your themes directory. Make sure the links (.css and .yaml) are at the root of the themes directory. profit.
+Just drop the whisper directory and the two links into your themes directory. Make sure the links (.css and .yaml) are at the root of the themes directory. profit.
