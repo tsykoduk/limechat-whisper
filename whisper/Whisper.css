@@ -385,6 +385,8 @@ body.normal .message[type=debug_receive] {
 
 /* Icons/logos for some popular apps/channels */
 
+/* todo: Need to suss out how to make the channel transparent enough to see these */
+
 html[channelname="#limechat"].normal {
 	background: white url('whisper/limechat.png') no-repeat fixed bottom right;
 }
